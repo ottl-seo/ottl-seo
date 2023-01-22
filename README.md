@@ -5,7 +5,7 @@ I’m a passionate junior software engineer who is interested in the Web 🌐, C
 
 ## 🙂 About me
 - Ewha Womans University (majoring in Cyber Security), Seoul, Korea 🇰🇷
-- contact: dotsi@ewhain.net
+- Contact: dotsi@ewhain.net
 - LinkedIn: [www.linkedin.com/in/ottl-seo/](https://www.linkedin.com/in/ottl-seo/)
 - Blog: [ottl-seo.tistory.com](https://ottl-seo.tistory.com/)
 - Resume 👉 [Notion](https://yoonseo.notion.site/Yoonseo-Kim-fbbf3a2a865b4d63b6e86ee1478e23c8) 
