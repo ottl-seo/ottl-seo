@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Yoonseo Kim  : )
 I’m a passionate junior software engineer who is interested in the Web 🌐, Cloud technology ☁️, and Developer Relations 🥑.  
 
+- - -
+
 ## 🙂 About me
 - Ewha Womans University, Seoul, Korea (Cyber Security in Department of Software)
 - contact: dotsi@ewhain.net
