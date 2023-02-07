@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yoonseo Kim  : )
+# Hi, I'm Yoonseo Kim 👋
 I’m a passionate software engineer interested in the Web 🌐, Cloud technology ☁️, and Developer Relations 🥑.  
 
 - - -
