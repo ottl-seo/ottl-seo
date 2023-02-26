@@ -3,14 +3,14 @@ I’m a passionate software engineer interested in the Web 🌐, Cloud technolog
 
 - - -
 
-## 🙂 About me
+## About me
 - Ewha Womans University (majoring in Cyber Security), Seoul, Korea 🇰🇷
 - Contact: dotsi@ewhain.net
 - LinkedIn: [www.linkedin.com/in/ottlseo/](https://www.linkedin.com/in/ottlseo/)
 - Blog: [ottl-seo.tistory.com](https://ottl-seo.tistory.com/)
 - Resume 👉 [Notion](https://yoonseo.notion.site/Yoonseo-Kim-fbbf3a2a865b4d63b6e86ee1478e23c8) 
 
-## ☀️ Experience
+## Experience
 #### 2022
 - 2022.05 ~ 08 : [Amazon Web Services](https://github.com/aws)
   - Solutions Architect Internship
