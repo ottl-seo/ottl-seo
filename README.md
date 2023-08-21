@@ -5,17 +5,20 @@ I’m a passionate software engineer interested in the Web 🌐, Cloud technolog
 
 ## About me
 - Ewha Womans University (majoring in Cyber Security), Seoul, Korea 🇰🇷
-- Contact: dotsi@ewhain.net
+- Contact: dotsi@ewhain.net | ottlseo@amazon.com
 - LinkedIn: [www.linkedin.com/in/ottlseo/](https://www.linkedin.com/in/ottlseo/)
 - Blog: [ottl-seo.tistory.com](https://ottl-seo.tistory.com/)
 - Resume 👉 [Notion](https://yoonseo.notion.site/Yoonseo-Kim-fbbf3a2a865b4d63b6e86ee1478e23c8) 
 
 ## Experience
 #### 2023
-- 2023.03 ~ Present : [Ringle](https://www.ringleplus.com/ko/student/landing/team)
+- 2023.08 ~ Present : [Amazon Web Services Korea](https://github.com/aws)
+  - Associate Solutions Architect
+- 2023.03 ~ 07 : [Ringle](https://www.ringleplus.com/ko/student/landing/team)
   - Full Stack Developer Internship (Backend & Infra Team)
 - 2023.01 ~ 02 : Blockchain Developer at Formula Labs
   - Freelance Frontend Developer
+- [AUSG(AWSKRUG University Student Group)](https://ausg.me/) Co-organizer 
 
 #### 2022
 - 2022.05 ~ 08 : [Amazon Web Services](https://github.com/aws)
