@@ -12,7 +12,7 @@ I’m a passionate software engineer interested in the Web 🌐, Cloud technolog
 
 ## Experience
 #### 2023
-- 2023.08 ~ Present : [Amazon Web Services Korea](https://github.com/aws)
+- 2023.08 ~ Present : [Amazon Web Services Korea](https://github.com/aws) 🇰🇷
   - Associate Solutions Architect
 - 2023.03 ~ 07 : [Ringle](https://www.ringleplus.com/en/student/landing/team)
   - Full Stack Developer Internship (Backend & Infra Team)
