@@ -14,24 +14,23 @@ I’m a passionate software engineer interested in the Web 🌐, Cloud technolog
 #### 2023
 - 2023.08 ~ Present : [Amazon Web Services Korea](https://github.com/aws)
   - Associate Solutions Architect
-- 2023.03 ~ 07 : [Ringle](https://www.ringleplus.com/ko/student/landing/team)
+- 2023.03 ~ 07 : [Ringle](https://www.ringleplus.com/en/student/landing/team)
   - Full Stack Developer Internship (Backend & Infra Team)
 - 2023.01 ~ 02 : Blockchain Developer at Formula Labs
   - Freelance Frontend Developer
-- [AUSG(AWSKRUG University Student Group)](https://ausg.me/) Co-organizer 
+- [AUSG(AWSKRUG University Student Group)](https://ausg.me/) Co-organizer 🥑 
 
 #### 2022
 - 2022.05 ~ 08 : [Amazon Web Services](https://github.com/aws)
   - Solutions Architect Internship
-- [AUSG(AWSKRUG University Student Group)](https://ausg.me/) 6th member
-- [2022 GDSC Winter Hack: Play Your Stay](https://gdsckoreahackathon2022.github.io/) STAFF
+- [2022 GDSC Winter Hack: Play Your Stay](https://gdsckoreahackathon2022.github.io/) STAFF 🥑 
 
 #### 2021
 - 2021.05 ~ 12 : Wooribank Startup program 
   - Backend Developer
-- [GDSC(Google Developer Student Clubs) Ewha](https://gdscewha.tistory.com/) Lead
-- GDSC X GDG Campus [DevFest University](https://festa.io/events/1862/) STAFF
 - EFUB(Ewha Womans Univ. IT Developer Club) Backend Lead Developer
+- [GDSC(Google Developer Student Clubs) Ewha](https://gdscewha.tistory.com/) Lead 🥑 
+- GDSC X GDG Campus [DevFest University](https://festa.io/events/1862/) STAFF 🥑 
 
 #### 2020
 - 2020.01 ~ 2021.12 : Management of Community [Ewhaian](https://www.ewhaian.com/) (Engineering Team)
