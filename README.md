@@ -1,16 +1,18 @@
-# Hi, I'm Yoonseo Kim 👋
-I’m a passionate software engineer interested in the Web 🌐, Cloud technology ☁️, and Developer Relations 🥑.  
+# Hi! I'm Yoonseo Kim 👋
+Passionate software engineer interested in the Web 🌐, Cloud technology ☁️, and Developer Relations 🥑.
+
+I'm currently working as a Solutions Architect at Amazon Web Services (AWS), helping customers successfully build on AWS. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ottlseo/)!
 
 - - -
 
-## About me
+## About me 
 - Ewha Womans University (majoring in Cyber Security), Seoul, Korea 🇰🇷
 - Contact: dotsi@ewhain.net | ottlseo@amazon.com
 - LinkedIn: [www.linkedin.com/in/ottlseo/](https://www.linkedin.com/in/ottlseo/)
 - Blog: [ottl-seo.tistory.com](https://ottl-seo.tistory.com/)
 - Resume 👉 [Notion](https://yoonseo.notion.site/Yoonseo-Kim-fbbf3a2a865b4d63b6e86ee1478e23c8) 
 
-## Experience
+## Experiences 🖥️
 #### 2023
 - 2023.08 ~ Present : [Amazon Web Services Korea](https://github.com/aws) 🇰🇷
   - Associate Solutions Architect
