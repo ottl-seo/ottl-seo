@@ -7,7 +7,7 @@ I'm currently working as a Solutions Architect at Amazon Web Services (AWS), hel
 
 ## About me 
 - Ewha Womans University (majoring in Cyber Security), Seoul, Korea 🇰🇷
-- Contact: dotsi@ewhain.net
+- Contact: dotsi@ewha.ac.kr
 - LinkedIn: [www.linkedin.com/in/ottlseo/](https://www.linkedin.com/in/ottlseo/)
 - Blog: [ottl-seo.tistory.com](https://ottl-seo.tistory.com/)
 - Resume 👉 [Notion](https://yoonseo.notion.site/Yoonseo-Kim-fbbf3a2a865b4d63b6e86ee1478e23c8) 
