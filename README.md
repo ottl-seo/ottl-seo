@@ -31,7 +31,7 @@ I'm currently working as a Solutions Architect at Amazon Web Services (AWS), hel
 - EFUB(Ewha Womans Univ. IT Developer Club) Backend developer
 
 #### 2020
-- 2020.01 ~ 2021.12 : Lead developer & General manager of [Ewhaian](https://www.ewhaian.com/), a community application where verified ewha students have anonymous conversations
+- 2020.01 ~ 2021.12 : Lead developer & General manager of [Ewhaian](https://www.ewhaian.com/), a community application where 210K+ verified ewha students have anonymous conversations
 
 ## Volunteering 🥑 
 - [AUSG(AWSKRUG University Student Group)](https://ausg.me/) Co-organizer 
