@@ -12,7 +12,7 @@ I'm currently working as a Solutions Architect at Amazon Web Services (AWS), hel
 - Blog: [ottl-seo.tistory.com](https://ottl-seo.tistory.com/)
 - Resume 👉 [Notion](https://yoonseo.notion.site/Yoonseo-Kim-fbbf3a2a865b4d63b6e86ee1478e23c8) 
 
-## Experiences 🖥️
+## Experiences
 #### 2023
 - 2023.08 ~ Present : [Amazon Web Services Korea](https://github.com/aws) 🇰🇷
   - Associate Solutions Architect
