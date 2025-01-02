@@ -1,5 +1,5 @@
 # Hi, I'm Yoonseo 👋
-A passionate software engineer interested in the Web 🌐, Cloud technology ☁️, and Developer Relations 🥑.
+A passionate software engineer interested in the Web, Cloud technology, and Developer Relations.
 
 I'm currently working as a Solutions Architect at Amazon Web Services (AWS), helping customers successfully build on AWS. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ottlseo/)!
 
